@@ -1,4 +1,4 @@
-Hi 👋 My name is Michael Paglia
+Hey! 👋 My name is Michael Paglia.
 ===============================
 
 Aspiring Software Engineer
