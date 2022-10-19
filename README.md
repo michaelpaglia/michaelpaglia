@@ -4,12 +4,12 @@ Hey! 👋 My name is Michael Paglia.
 Aspiring Software Engineer
 --------------------------
 
-I began my career in computer science in August 2021 at the University at Albany. Java was my initial introduction to the world of programming, but I've since become proficient in Javascript, Python, and C. I love learning about new algorithms and practicing different techniques to achieve the optimal result. Over the past year, I have taken a keen interest in web3's decentralization and have familiarized myself with tools such as MetaMask and Uniswap, token bridges such as Arbitrum and Avalanche, and the Ethereum and Polygon chains. I'm now entering my second year of computer science courses whilst tutoring mathematics outside the classroom and busily applying for internships. I plan on graduating university in May 2024. Thank you for visiting my page!
+I began my career in computer science in August 2021 at the University at Albany. Java was my initial introduction to the world of programming, but I've since become proficient in Javascript, Python, and C as well. I love learning about new algorithms and practicing different techniques to achieve the optimal result. Over the past year, I have taken a keen interest in web3's decentralization and have familiarized myself with tools such as MetaMask and Uniswap, token bridges such as Arbitrum and Avalanche, and the Ethereum and Polygon chains. I'm now entering my second year of computer science courses whilst tutoring mathematics outside the classroom and busily applying for internships. I plan on graduating university in May 2024. Thank you for visiting my page!
 
 * 🌍  I'm based in Albany, New York, United States of America
 * ✉️  You can contact me at [michaelpaglia02@gmail.com](mailto:michaelpaglia02@gmail.com)
 * 🧠  I'm learning about the principles of programming, system fundamentals, and the design and analysis of algorithms
-* 🤝  I'm open to collaborating on Python scripting or machine learning projects
+* 🤝  I'm open to collaborating on any Java, Python, or C projects
 * ⚡  Searching for internships for Summer 2023
 
 ### Skills
