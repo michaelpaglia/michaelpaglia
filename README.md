@@ -4,12 +4,12 @@ Hey! 👋 My name is Michael Paglia.
 Aspiring Software Engineer
 --------------------------
 
-I began my career in computer science in August 2021 at the University at Albany. Java was my initial introduction to the world of programming, but I've since become proficient in Javascript, Python, C, and Assembly as well. I love learning about new algorithms and practicing different techniques to achieve the optimal result. One of the most interesting projects I've developed was an interpreter for my own programming language, capable of lexically analyzing tokens, parsing nodes, and interpreting those nodes to produce a readable output for the user. Over the past year, I have taken a keen interest in web3's decentralization and have familiarized myself with tools such as MetaMask and Uniswap, token bridges such as Arbitrum and Avalanche, and the Ethereum and Polygon chains. I'm now entering my third year of computer science courses whilst tutoring mathematics outside the classroom. This summer, I will be interning at Regeneron's IOPS organization. I plan on graduating university in May 2024. Thank you for visiting my page!
+I began my career in computer science in August 2021 at the University at Albany. Java was my initial introduction to the world of programming, but I've since become proficient in Javascript, Python, C, and Assembly as well. I love learning about new algorithms and practicing different techniques to achieve the optimal result. One of the most interesting projects I've developed was an interpreter for my own programming language, capable of lexically analyzing tokens, parsing nodes, and interpreting those nodes to produce a readable output for the user. Over the past year, I have taken a keen interest in web3's decentralization and have familiarized myself with tools such as MetaMask and Uniswap, token bridges such as Arbitrum and Avalanche, and the Ethereum and Polygon chains. I'm now entering my third year of computer science courses whilst tutoring mathematics outside the classroom. This past summer, I interned at Regeneron's IOPS organization, working with the Mid-Scale Manufacturing and IT departments. I automated internally written regulatory report data through Microsoft Powersuite and visually identified/analyzed trends to drive department improvement. Additionally, I implemented a CRUD application interface and REST API which provided smart contract-based access using Python, Flask, JavaScript, and a Dremio data lake. I plan on graduating in May 2024. Thank you for visiting my page!
 
 * 🌍  I'm based in Troy, New York, United States of America
-* ✉️  You can contact me at [michaelpaglia02@gmail.com](mailto:michaelpaglia02@gmail.com)
-* 🧠  I'm learning about numerical methods, computer organization, database systems, and software engineering.
-* 🤝  I'm open to collaborating on any Java, Python, or C projects
+* ✉️  You can contact me at [michaelpagliadev@gmail.com](mailto:michaelpagliadev@gmail.com)
+* 🧠  I'm learning about automata and formal languages, operating systems, computer communication networks, and computer security
+* 🤝  I'm open to collaborating on any open source projects
 
 ### Skills
 
