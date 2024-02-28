@@ -1,7 +1,7 @@
 Hey! 👋 My name is Michael Paglia.
 ===============================
 
-CS @ UAlbany
+Senior CS Student @ UAlbany
 --------------------------
 
 * 🌍  I'm based in Troy, New York, United States of America.
