@@ -1,14 +1,12 @@
 Hey! 👋 My name is Michael Paglia.
 ===============================
 
-Aspiring Software Engineer
+CS @ UAlbany
 --------------------------
 
-I began my career in computer science in August 2021 at the University at Albany. One of the most interesting projects I've developed was an interpreter for my own programming language, capable of lexically analyzing tokens, parsing nodes, and interpreting those nodes to produce a readable output for the user. I'm now entering my third year of computer science courses whilst tutoring mathematics outside the classroom. This past summer, I interned at Regeneron's IOPS organization, working with the Mid-Scale Manufacturing and IT departments. I automated internally written regulatory report data through Microsoft Powersuite and visually identified/analyzed trends to drive department improvement. Additionally, I implemented a CRUD application interface and REST API which provided smart contract-based access using Python, Flask, JavaScript, and a Dremio data lake. I plan on graduating in May 2024. Thank you for visiting my page!
-
-* 🌍  I'm based in Troy, New York, United States of America
-* ✉️  You can contact me at [michaelpagliadev@gmail.com](mailto:michaelpagliadev@gmail.com)
-* 🧠  I'm learning about automata and formal languages, operating systems, computer communication networks, and computer security
+* 🌍  I'm based in Troy, New York, United States of America.
+* ✉️  You can contact me at [michaelpagliadev@gmail.com](mailto:michaelpagliadev@gmail.com).
+* 🧠  My current research focus is implementing Pyspady, a Python sparse encoding library.
 * 🤝  I'm open to collaborating on any open-source projects.
 
 ### Skills
