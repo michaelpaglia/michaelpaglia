@@ -1,12 +1,12 @@
 Hey! 👋 My name is Michael Paglia.
 ===============================
 
-Senior CS Student @ UAlbany
+First-Year Graduate CS/ML Student @ Georgia Tech
 --------------------------
 
 * 🌍  I'm based in Troy, New York, United States of America.
 * ✉️  You can contact me at [michaelpagliadev@gmail.com](mailto:michaelpagliadev@gmail.com).
-* 🧠  My current research focus is implementing Pyspady, a Python sparse encoding library.
+* 🧠  I am a former Data Management and Mining Lab member @ UAlbany.
 * 🤝  I'm open to collaborating on any open-source projects.
 
 ### Skills
