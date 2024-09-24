@@ -1,12 +1,12 @@
 Hey! 👋 My name is Michael Paglia.
 ===============================
 
-First-Year Graduate CS/ML Student @ Georgia Tech
+CS & ML
 --------------------------
 
 * 🌍  I'm based in Troy, New York, United States of America.
 * ✉️  You can contact me at [michaelpagliadev@gmail.com](mailto:michaelpagliadev@gmail.com).
-* 🧠  I am a former Data Management and Mining Lab member @ UAlbany.
+* 🧠  I am a former Data Management and Mining Lab member and NSF scholar @ UAlbany.
 * 🤝  I'm open to collaborating on any open-source projects.
 
 ### Skills
