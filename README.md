@@ -9,7 +9,7 @@ Focusing on strategic projects in human data collection and posttraining pipelin
 
 ## Previously
 
-- Human Data for Superintelligence @ Meta TBD Lab
+- [Human Data](https://ai.meta.com/blog/introducing-muse-spark-msl/) for Superintelligence @ Meta TBD Lab
 - AI Agents @ Meta (worked with FAIR on [open-source agent research](https://ai.meta.com/research/publications/are-scaling-up-agent-environments-and-evaluations/))
 - GenAI Data Lead @ Meta
 - NSF Research Fellow @ UAlbany Data Management and Mining Lab
