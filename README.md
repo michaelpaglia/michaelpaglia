@@ -4,7 +4,7 @@ Focusing on strategic projects in human data collection and posttraining pipelin
 
 ## Currently
 
-- **Member of Technical Staff** @ Fleet AI
+- **Member of Technical Staff** @ [Fleet AI](https://fleetai.com/)
 - **Founder** @ [518 Cares](https://518cares.org)
 
 ## Previously
@@ -12,7 +12,7 @@ Focusing on strategic projects in human data collection and posttraining pipelin
 - [Human Data](https://ai.meta.com/blog/introducing-muse-spark-msl/) for Superintelligence @ Meta TBD Lab
 - AI Agents @ Meta (worked with FAIR on [open-source agent research](https://ai.meta.com/research/publications/are-scaling-up-agent-environments-and-evaluations/))
 - GenAI Data Lead @ Meta
-- NSF Research Fellow @ UAlbany Data Management and Mining Lab
+- NSF Research Fellow @ UAlbany [Data Management and Mining Lab](http://www.cs.albany.edu/~petko/lab/)
 - B.S. Computer Science, UAlbany (Summa Cum Laude)
 
 ## Connect
