@@ -4,7 +4,7 @@ Focusing on strategic projects in human data collection and posttraining pipelin
 
 ## Currently
 
-
+- **Research Engineer** @ [Mercor](https://mercor.com)
 - **Founder** @ [518 Cares](https://518cares.org)
 
 ## Previously
