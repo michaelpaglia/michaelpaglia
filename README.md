@@ -1,6 +1,6 @@
 # Michael Paglia
 
-Focusing on strategic projects in human data collection and posttraining pipelines for next-gen AI.
+Building benchmarks & environments to hillclimb frontier AI on economically valuable knowledge work.
 
 ## Currently
 
